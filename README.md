@@ -1,4 +1,7 @@
-## Extended Desktop Window Manager (DWMX)
+## 2026 Updated Extended Desktop Window Manager (DWMX)
+
+> [!WARNING]  
+> This update is an experimental fix. Use at your own risk.
 
 > [!WARNING]  
 > This plugin extends Windows 11 native compositor, allowing it to work with the Steam Client.
